@@ -1,3 +1,4 @@
+#To Calculate the sum of first "n" natural number.
 def a():
     s = 0
     n = int(input("Till which number?"))
