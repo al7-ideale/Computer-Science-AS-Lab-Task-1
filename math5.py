@@ -9,4 +9,3 @@ elif n>0:
 
 else:
     print(str(n) + " is negative")
-
