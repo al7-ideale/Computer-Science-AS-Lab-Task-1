@@ -16,3 +16,4 @@ elif m < 40 and p >= 40:
 else:
     print("The student failed in both Mathematics and Physics.")
  
+ 
