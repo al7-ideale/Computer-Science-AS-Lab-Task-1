@@ -1,4 +1,4 @@
-#To Determine the number is odd, even or neutral
+#To Determine the number is odd, even or neutral.
 
 n = int(input("Enter a number: "))
 if n == 0:
