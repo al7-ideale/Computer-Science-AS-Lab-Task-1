@@ -1,4 +1,4 @@
-#To Calculate the sum of first "n" natural number.
+# To Calculate the sum of first "n" natural number.
 
 def a():
     s = 0
